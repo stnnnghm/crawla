@@ -1,17 +1,18 @@
 # crawla
 
-# web crawler for use with verification apps
-    ## - Mr. Number (phone app, coming soon )
+## web crawler for use with verification apps
 
-    ## - InstantCheckmate
+#### - Mr. Number (coming soon )
 
-    ## - VerifyHim
+#### - InstantCheckmate (https://www.instantcheckmate.com/)
 
-    ## - Hiya (phone app, coming soon)
+#### - VerifyHim (https://www.verifyhim.com/)
 
-    ## - ClientEye (phone app, coming soon)
+#### - Hiya (coming soon)
 
-    ## - SafeOffice
+#### - ClientEye (coming soon)
 
-# Should return negative remarks from background checks
+#### SafeOffice (https://safeoffice.com/)
+
+ Should return negative remarks from background checks
 
